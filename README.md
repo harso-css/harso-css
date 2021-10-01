@@ -39,7 +39,7 @@
 ### <h3>Give this classname to a tag : rainbow-text-one-time-only, then the color of that element will have a rainbow animation for one time</h3><br><br>
 
 ### <h2>Buttons</h2>
-### <h3>We have many buttons, you can look it in <a href="https://sreehari521.github.io/harso-css/buttons.html">here</a></h3>
+### <h3>We have many buttons, you can look it in <a href="https://harso-css.github.io/harso-css/buttons.html">here</a></h3>
 ### ```<button class="btn-orange">Hi</button>```
 ### ```<button class="btn-blue-1">Hi</button>```
 ### ```<button class="btn-blue-2">Hi</button>```
