@@ -42,7 +42,10 @@
 ### ```<button class="btn btn-blue-2">Hi</button>```
 ### ```<button class="btn btn-white">Hi</button>```
 ### ```<button class="btn btn-dark">Hi</button>```
-### ```<button class="btn btn-yellow">Hi</button>```<br><br>
+### ```<button class="btn btn-yellow">Hi</button>```
+### ```<button class="btn btn-danger">Hi</button>```
+### ```<button class="btn btn-info">Hi</button>```
+### ```<button class="btn btn-warning">Hi</button>```<br><br>
 
 ### <h2>Transitions</h2>
 ### class name ```trans-0 = transition: 0s;```
