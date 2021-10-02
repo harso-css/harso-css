@@ -37,12 +37,12 @@
 
 ### <h2>Buttons</h2>
 ### <h3>We have many buttons, you can look it in <a href="https://harso-css.github.io/harso-css/buttons.html">here</a></h3>
-### ```<button class="btn-orange">Hi</button>```
-### ```<button class="btn-blue-1">Hi</button>```
-### ```<button class="btn-blue-2">Hi</button>```
-### ```<button class="btn-white">Hi</button>```
-### ```<button class="btn-dark">Hi</button>```
-### ```<button class="btn-yellow">Hi</button>```<br><br>
+### ```<button class="btn btn-orange">Hi</button>```
+### ```<button class="btn btn-blue-1">Hi</button>```
+### ```<button class="btn btn-blue-2">Hi</button>```
+### ```<button class="btn btn-white">Hi</button>```
+### ```<button class="btn btn-dark">Hi</button>```
+### ```<button class="btn btn-yellow">Hi</button>```<br><br>
 
 ### <h2>Transitions</h2>
 ### class name ```trans-0 = transition: 0s;```
