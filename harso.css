@@ -242,7 +242,6 @@ Copyright (c) forever Sreehari521 */
     height: 30px;
     border: 1px solid var(--har-dark);
     border-radius: 8px;
-    cursor: pointer;
     text-decoration: none;
 }
 .btn-orange:active{
@@ -255,7 +254,6 @@ Copyright (c) forever Sreehari521 */
     height: 30px;
     border: 1px solid var(--har-dark);
     border-radius: 8px;
-    cursor: pointer;
     text-decoration: none;
 }
 .btn-blue-1:active{
@@ -267,8 +265,6 @@ Copyright (c) forever Sreehari521 */
     width: 120px;
     height: 30px;
     border: 1px solid var(--har-dark);
-    border-radius: 8px;
-    cursor: pointer;
     text-decoration: none;
 }
 .btn-blue-2:active{
@@ -282,7 +278,6 @@ Copyright (c) forever Sreehari521 */
     border: 1px solid var(--har-dark);
     border-radius: 8px;
     text-decoration: none;
-    cursor: pointer;
     color: #000;
 }
 .btn-white:active{
@@ -296,7 +291,6 @@ Copyright (c) forever Sreehari521 */
     border: 1px solid var(--har-white);
     border-radius: 8px;
     text-decoration: none;
-    cursor: pointer;
     color: #fff;
 }
 .btn-white:active{
@@ -310,13 +304,11 @@ Copyright (c) forever Sreehari521 */
     border: 1px solid var(--har-dark);
     border-radius: 8px;
     text-decoration: none;
-    cursor: pointer;
 }
 .btn-yellow:active{
     border: 2px solid var(--har-dark);
 }
 
-/* Button Themes*/
 .btn-fill{
 	border:2px solid transparent;
 	color: white;
@@ -356,26 +348,6 @@ Copyright (c) forever Sreehari521 */
 }
 .btn-warning:hover{
     border: 2px solid #948f01;
-}
-/* Button Borders*/
-.danger{
-    border: 2px solid #d10502;
-}
-.info{
-    border: 2px solid #0294b5;
-}
-.warning{
-    border: 2px solid #948f01;
-}
-/* Hover Background Colors*/
-.danger:hover{
-    background-color: #d10502;
-}
-.info:hover{
-    background-color: #0294b5;
-}
-.warning:hover{
-    background-color: #948f01;
 }
 
 /* Transitions */
