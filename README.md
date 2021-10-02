@@ -1,15 +1,13 @@
 # Welcome to harso-css 
-
 ## What is this library?
-* This Library is A Superrr CSS3 Library
-* You can just give style to anythings with the ClassNames we say
-* Also don't forget to follow me on : <a href="https://github.com/Sreehari521">Github</a>, <a href="https://www.youtube.com/channel/UCYJKtrmrcSbFlNABR_JFWuQ/featured">Youtube</a>
+* This Library is A Superr CSS3 Library
+* A CSS Framework that helps you to make your pages Cool!!
 
 ## Installation
-* ```npm i harso-css```
-* https://cdn.jsdelivr.net/npm/harso-css@latest/ (install as a script tag)
+* Install via npm: ```npm i harso-css```
+* Install via CDN: ``` <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/harso-css@latest/">```
 
-## Documentation <br>
+# Documentation <br>
 ### <h2>Fonts</h2>
 ### The first thing that this library include is it will automatically gives margin and padding as 0
 ### This can change your font-family only with a classname
@@ -24,7 +22,7 @@
 ### <h3>Green Text</h3> = ``` <h3 class="green">Green Text</h3> ```<br><br>
 ### <h3>Light Green Text</h3> = ``` <h3 class="light-green">Light Green Text</h3> ```<br><br>
 ### <h2>There are more colors like this, that light-blue</span>, <span>royal-blue</span>, <span>dark</span>, <span>brown</span>, <span>pink</span>, <span>plum</span>, <span>violet</span>, <span>purple</span>, <span></span> and <span>orange</span></h2><hr>
-### <h2>Note: You can just add the prefix bg- to the color classnames for getting that bg(background) instead of color</h2><hr><hr><br>
+> ### <h2>Note: You can just add the prefix bg- to the color classnames for getting that bg(background) instead of color</h2><hr><hr><br>
 
 ### <h2>Some Others...</h2>
 ### <h3>Give this classname to an a tag : a-no-decr, then it don't have any text-decoration</h3>
