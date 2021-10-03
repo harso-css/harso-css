@@ -37,12 +37,6 @@
 
 ### <h2>Buttons</h2>
 ### <h3>We have many buttons, you can look it in <a href="https://harso-css.github.io/harso-css/buttons.html">here</a></h3>
-### ```<button class="btn btn-orange">Hi</button>```
-### ```<button class="btn btn-blue-1">Hi</button>```
-### ```<button class="btn btn-blue-2">Hi</button>```
-### ```<button class="btn btn-white">Hi</button>```
-### ```<button class="btn btn-dark">Hi</button>```
-### ```<button class="btn btn-yellow">Hi</button>```
 ### ```<button class="btn btn-danger">Hi</button>```
 ### ```<button class="btn btn-info">Hi</button>```
 ### ```<button class="btn btn-warning">Hi</button>```<br><br>
