@@ -1,16 +1,6 @@
 /* Developed by sreehari 
 Copyright (c) forever Sreehari521 */
 
-/* Variables */
-:root{
-    --har-orange: rgb(252, 187, 10);
-    --har-blue: rgb(41, 88, 219);
-    --har-light-blue: rgb(6, 218, 247);
-    --har-yellow: rgb(244, 255, 86);
-    --har-white: rgb(255, 255, 255);
-    --har-dark: #131618;
-}
-
 /* Main Setup */
 *{
     margin: 0;
@@ -235,78 +225,6 @@ Copyright (c) forever Sreehari521 */
   	transition: 0.3s;
   	margin-top: 30px;
   	cursor: pointer;
-}
-.btn-orange{
-    background: var(--har-orange);
-    width: 120px;
-    height: 30px;
-    border: 1px solid var(--har-dark);
-    border-radius: 8px;
-    text-decoration: none;
-}
-.btn-orange:active{
-    border: 2px solid var(--har-dark);
-}
-
-.btn-blue-1{
-    background: var(--har-blue);
-    width: 120px;
-    height: 30px;
-    border: 1px solid var(--har-dark);
-    border-radius: 8px;
-    text-decoration: none;
-}
-.btn-blue-1:active{
-    border: 2px solid var(--har-dark);
-}
-
-.btn-blue-2{
-    background: var(--har-light-blue);
-    width: 120px;
-    height: 30px;
-    border: 1px solid var(--har-dark);
-    text-decoration: none;
-}
-.btn-blue-2:active{
-    border: 2px solid var(--har-dark);
-}
-
-.btn-white{
-    background: var(--har-white);
-    width: 120px;
-    height: 30px;
-    border: 1px solid var(--har-dark);
-    border-radius: 8px;
-    text-decoration: none;
-    color: #000;
-}
-.btn-white:active{
-    border: 2px solid var(--har-dark);
-}
-
-.btn-dark{
-    background: var(--har-dark);
-    width: 120px;
-    height: 30px;
-    border: 1px solid var(--har-white);
-    border-radius: 8px;
-    text-decoration: none;
-    color: #fff;
-}
-.btn-white:active{
-    border: 2px solid var(--har-white);
-}
-
-.btn-yellow{
-    background: var(--har-yellow);
-    width: 120px;
-    height: 30px;
-    border: 1px solid var(--har-dark);
-    border-radius: 8px;
-    text-decoration: none;
-}
-.btn-yellow:active{
-    border: 2px solid var(--har-dark);
 }
 
 .btn-fill{
