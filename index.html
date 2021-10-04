@@ -1,17 +1,66 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<title></title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="css/button.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/harso-css@3.0.5/harso.css" type="text/css">
+	<script src="https://kit.fontawesome.com/e9c6ee5e55.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
+
 <body>
-	1. Fill Buttons<br>
-	<button class="btn btn-fill btn-info">Fill Button Info</button>
-	<button class="btn btn-fill btn-warning">Fill Button Warning</button>
-	<button class="btn btn-fill btn-danger">Fill Button Error/Danger</button>
-	2. Border Buttons<br>
-	<button class="btn btn-border info">Border Button Info</button>
-	<button class="btn btn-border danger">Border Button Danger</button>
-	<button class="btn btn-border warning">Border Button Warning</button>
+	<div class="wrapper">
+		<div class="sidebar">
+			<div class="info"><img src="img/harso.png" alt="logo">
+				<h3>Harso Documentation</h3>
+			</div>
+			<ul>
+				<!-- Lesson Sample: Use that to make lessons. -->
+				<!-- Include a Active Class to Help user know where am I. -->
+				<!-- <li>
+					<a href="#" target="_blank">
+						<span class="icon"><i class=""></i></span>
+						<span class="item">Lesson</span>
+					</a>
+				</li> -->
+				<li>
+					<a href="#" target="_blank" class="active">
+						<span class="icon"><i class="fas fa-download"></i></span>
+						<span class="item">Installation</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="section">
+            <div class="top_navbar">
+                <div class="hamburger">
+                    <a href="#">
+                        <i class="fas fa-bars"></i>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+        <div class="content">
+        	<span class="hidden">29403204953849593928394</span>
+        	<div class="centered">
+        		<b>Welcome to Harso Documenation!! This is Harso Documenation.<br>In here you'll know a lot classes to make Responsive sites!! Let's Begin!!
+        		<h2>Installation</h2>
+        		So, You'll need to first Install Our CDN Code to your Document to use Harso Classes.<br>
+        		Include the Given Code to Your Document &lt;head&gt;&lt;/head&gt; tag to use our classes.<br>
+        		Include the given in your head tag -<br>
+        		&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/harso-css@3.0.5/harso.css&quot; type=&quot;text/css&quot;&gt;<br>
+        	Site in Progress...Not Full Documenation.</b>
+        	</div>
+        </div>
+	</div>
+	<script type="text/javascript">
+		var hamburger = document.querySelector(".hamburger");
+    hamburger.addEventListener("click", function(){
+        document.querySelector("body").classList.toggle("active");
+    })
+	</script>
 </body>
+
 </html>
