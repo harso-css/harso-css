@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background: #f5f6fa;
+}
+body.active .wrapper .sidebar{
+    left: -240px;
+}
+
+body.active .wrapper .section{
+    margin-left: 0;
+    width: 100%;
+}
+.wrapper .sidebar{
+    background: #737272;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 240px;
+    height: 100%;
+    padding: 20px 0;
+    transition: all 0.5s ease;
+}
+.wrapper .sidebar .info{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.wrapper .sidebar .info img{
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border:none;
+    margin: 0 auto;
+}
+
+.wrapper .sidebar .info h3{
+    color: #ffffff;
+    margin: 10px 0 5px;
+}
+
+.wrapper .sidebar .info p{
+    color: rgb(206, 240, 253);
+    font-size: 14px;
+}
+.wrapper .sidebar ul li a{
+    display: block;
+    padding: 13px 30px;
+    border:none;
+    color: rgb(241, 237, 237);
+    font-size: 16px;
+    position: relative;
+}
+
+.wrapper .sidebar ul li a .icon{
+    color: #dee4ec;
+    width: 30px;
+    display: inline-block;
+    transition: 0.2s;
+}
+.wrapper .sidebar ul li a{
+    transition: 0.2s;
+}
+.wrapper .sidebar ul li a:hover{
+    color: #0c7db1;
+    border:none;
+    background:white;
+}
+.wrapper .sidebar ul li a.active, .wrapper .sidebar ul li a:active{
+    color: #0c7db1;
+    border:none;
+    background: #cfcecc;
+}
+
+.wrapper .sidebar ul li a:hover .icon,
+.wrapper .sidebar ul li a.active .icon{
+    color: #0c7db1;
+}
+
+.wrapper .sidebar ul li a:hover:before,
+.wrapper .sidebar ul li a.active:before{
+    display: block;
+}
+.wrapper .section{
+    width: calc(100% - 225px);
+    margin-left: 225px;
+    transition: all 0.5s ease;
+}
+
+.wrapper .section .top_navbar{
+    background: #02afb5;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+
+}
+
+.wrapper .section .top_navbar .hamburger a{
+    font-size: 28px;
+    color: #f4fbff;
+    transition: 0.5s;
+}
+
+.wrapper .section .top_navbar .hamburger a:hover{
+    color: #a2ecff;
+}
+.hidden{
+    color:transparent;
+}
+.hidden:active, .hidden:hover, .hidden:visited{
+    filter: brightness(-100%);
+}
+.content{
+    margin:8px;
+}
+.centered{
+    text-align: center;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin:8px;
+}
