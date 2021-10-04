@@ -1,0 +1,48 @@
+/* Hasro Buttons Start */
+.btn{
+	font-family: "Raleway", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+  	letter-spacing: 1px;
+  	display: block;
+  	padding: 8px 28px;
+  	border-radius: 6px;
+  	height: 40%;
+  	transition: 0.3s;
+  	margin-top: 30px;
+  	cursor: pointer;
+}
+/* Button Themes*/
+.btn-fill{
+	border:2px solid transparent;
+	color: white;
+}
+.btn-border{
+	color:black;
+  	background-color: transparent;
+}
+/* Hover Button Themes*/
+.btn-fill:hover{
+	color:black;
+  	background-color: transparent;
+}
+.btn-border:hover{
+	border:2px solid transparent;
+	color: white;
+}
+/* Button Alerts */
+.btn-danger{background-color: #d10502;}
+.btn-info{background-color: #0294b5;}
+.btn-warning{background-color: #948f01;}
+/* Button Alerts Hover*/
+.btn-danger:hover{border: 2px solid #d10502;}
+.btn-info:hover{border: 2px solid #0294b5;}
+.btn-warning:hover{border: 2px solid #948f01;}
+/* Button Borders*/
+.danger{border: 2px solid #d10502;}
+.info{border: 2px solid #0294b5;}
+.warning{border: 2px solid #948f01;}
+/* Hover Background Colors*/
+.danger:hover{background-color: #d10502;}
+.info:hover{background-color: #0294b5;}
+.warning:hover{background-color: #948f01;}
