@@ -41,16 +41,16 @@ h4{
 
 /* colors */
 .blue{
-    color: var(--har-blue);
+    color: blue;
 }
 .red{
     color: red;
 }
 .yellow{
-    color: var(--har-yellow);
+    color: yellow;
 }
 .white{
-    color: var(--har-white);
+    color: white;
 }
 .green{
     color: green;
@@ -59,13 +59,13 @@ h4{
     color: lightgreen;
 }
 .light-blue{
-    color: var(--har-light-blue);
+    color: lightblue;
 }
 .royal-blue{
     color: royalblue;
 }
 .dark{
-    color: var(--har-dark);
+    color: rgb(17, 17, 17);
 }
 .brown{
     color: brown;
@@ -86,7 +86,7 @@ h4{
     color: indigo;
 }
 .orange{
-    color: var(--har-orange);
+    color: orange;
 }
 
 /* bg-colors */
@@ -179,12 +179,12 @@ h4{
 }
 
 .rainbow-bg-infinite{
-    animation: rainbow-text 3s linear infinite;
+    animation: rainbow-bg 3s linear infinite;
 }
 .rainbow-bg-one-time-only{
-    animation: rainbow-text 3s linear ease-in-out;
+    animation: rainbow-bg 3s linear ease-in-out;
 }
-@keyframes rainbow-text{
+@keyframes rainbow-bg{
     10%{
         background: violet;
     }
@@ -209,11 +209,21 @@ h4{
 }
 
 /* This will make a nav-bar */
-.nav-bar{
+.har-nav-bar{
     position: fixed;
     top: 0;
     width: 100%;
     height: 100px;
+    overflow: hidden;
+}
+.har-nav-opt, .har-nav-link{
+    position: relative;
+    text-align: center;
+    padding: 14px 69px;
+    text-decoration: none;
+    font-size: 23px;
+    left: 700px;
+    top: 28%;
 }
 
 /* a without text-decoration */

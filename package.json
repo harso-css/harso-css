@@ -1,9 +1,40 @@
 {
-    "name": "harso-css",
-    "version": "3.0.6",
-    "description": "A CSS Library to help you",
-    "main": "harso.css",
-    "keywords": ["CSS", "css", "harso", "Library", "Java", "JavaScript", "javascript", "java script", "react", "React", "Vue", "Angular", "HTML", "Web", "Website", "A CSS library", "A CSS library to help", "your library", "Boostrap", "bootstrap", "language", "CSS3"],
-    "author": "Sreehari.S",
-    "license": "MIT"
+  "name": "harso-css",
+  "version": "3.0.8",
+  "description": "A CSS Framework to make beautiful pages in a few class names",
+  "main": "harso.css",
+  "keywords": [
+    "CSS",
+    "css",
+    "harso",
+    "Library",
+    "Java",
+    "JavaScript",
+    "javascript",
+    "java script",
+    "react",
+    "React",
+    "Vue",
+    "Angular",
+    "HTML",
+    "Web",
+    "Website",
+    "A CSS library",
+    "A CSS library to help",
+    "your library",
+    "Boostrap",
+    "bootstrap",
+    "language",
+    "CSS3"
+  ],
+  "author": "Sreehari.S",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harso-css/harso-css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harso-css/harso-css/issues"
+  },
+  "homepage": "https://github.com/harso-css/harso-css#readme"
 }

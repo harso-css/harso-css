@@ -5,7 +5,7 @@
 
 ## Installation
 * Install via npm: ```npm i harso-css```
-* Install via CDN: ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/harso-css@3.0.5/harso.css">```
+* Install via CDN: ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/harso-css@3.0.8/harso.css">```
 
 # Documentation <br>
 ### <h2>Fonts</h2>
@@ -25,7 +25,7 @@
 > ### <h2>Note: You can just add the prefix bg- to the color classnames for getting that bg(background) instead of color</h2><hr><hr><br>
 ### <h2>Some Others...</h2>
 ### <h3>Give this classname to an a tag : a-no-decr, then it don't have any text-decoration</h3>
-### <h3>The class name nav-bar will make a nav-bar without any background color</h3>
+### <h3>Look that how you can create a nav-bar with harso-css in the Examples\NavBar\index.html ,Note : harso-css nav-bar is unresponsive</h3>
 ### <h3>class name text-center will make the text in the center</h3>
 ### <h3>class name center will gives you display as flex, align-items as center, justify-content as center and min-height as 100vh</h3><br><br>
 
@@ -36,10 +36,12 @@
 ### <h3>Give this classname to a tag : rainbow-text-one-time-only, then the color of that element will have a rainbow animation for one time</h3><br><br>
 
 ### <h2>Buttons</h2>
-### <h3>We have many buttons, you can look it in <a href="https://harso-css.github.io/harso-css/buttons.html">here</a></h3>
+### <h3>We have many buttons, you can look it in <a href="https://harso-css.github.io/harso-css/Examples/Buttons/buttons.html">here</a></h3>
 ### ```<button class="btn btn-danger">Hi</button>```
 ### ```<button class="btn btn-info">Hi</button>```
 ### ```<button class="btn btn-warning">Hi</button>```<br><br>
+### ```<button class="btn btn-fill">Hi</button>```
+### ```<button class="btn btn-border">Hi</button>```<br><br>
 
 ### <h2>Transitions</h2>
 ### class name ```trans-0 = transition: 0s;```
