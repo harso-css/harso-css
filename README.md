@@ -5,7 +5,7 @@
 
 ## Installation
 * Install via npm: ```npm i harso-css```
-* Install via CDN: ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/harso-css@3.0.8/harso.css">```
+* Install via CDN: ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/harso-css@3.0.9/harso.css">```
 
 # Documentation <br>
 ### <h2>Fonts</h2>
