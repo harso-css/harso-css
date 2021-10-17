@@ -1,6 +1,6 @@
 {
   "name": "harso-css",
-  "version": "3.0.9",
+  "version": "4.0.0",
   "description": "A CSS Framework to make beautiful pages in a few class names",
   "main": "harso.css",
   "keywords": [

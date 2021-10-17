@@ -211,19 +211,32 @@ h4{
 /* This will make a nav-bar */
 .har-nav-bar{
     position: fixed;
-    top: 0;
+    background: rgb(0, 0, 0);
+    height: 80px;
     width: 100%;
-    height: 100px;
-    overflow: hidden;
 }
-.har-nav-opt, .har-nav-link{
-    position: relative;
-    text-align: center;
-    padding: 14px 69px;
+.har-nav-bar ul{
+    margin-right: 20px;
+}
+.har-nav-bar ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+.har-nav-bar ul li a{
+    color: rgb(6, 218, 247);
+    font-size: 21px;
     text-decoration: none;
-    font-size: 23px;
-    left: 700px;
-    top: 28%;
+    transition: 0.9s;
+}
+.har-nav-bar ul li a:hover{
+    color: rgb(255, 0, 0);
+    letter-spacing: 3px;
+}
+@media (max-width: 952px){
+    .har-nav-bar ul li a {
+        font-size: 16px;
+    }
 }
 
 /* a without text-decoration */
