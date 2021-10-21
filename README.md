@@ -49,17 +49,17 @@
 **like this we have trans-0dot2, trans-0dot3, trans-0dot4, trans-0dot5, trans-0dot6, trans-0dot7, trans-0dot8, trans-0dot9, trans-1, trans-1dot1, trans1dot2, trans-1dot3, trans-1dot4, trans-1dot5, trans-1dot6, trans-0dot7, trans-1dot8, trans-1dot9, trans-2, trans-2dot1 trans-2dot2, trans-2dot3, tans-2dot4, trans-2dot5, trans-2dot6, trans-2dot7, trans-2dot9, trans-3** <br><br>
 
 ### <h2>Opacity</h2>
-### class name ```op-0 = opacity: 0s;```
-### class name ```op-0dot1 = opacity: 0.1s;```
-### class name ```op-0dot2 = opacity: 0.2s;```
-### class name ```op-0dot3 = opacity: 0.3s;```
-### class name ```op-0dot4 = opacity: 0.4s;```
-### class name ```op-0dot5 = opacity: 0.5s;```
-### class name ```op-0dot6 = opacity: 0.6s;```
-### class name ```op-0dot7 = opacity: 0.7s;```
-### class name ```op-0dot8 = opacity: 0.8s;```
-### class name ```op-0dot9 = opacity: 0.9s;```
-### class name ```op-1 = opacity: 1s;```
+> ```op-0 = opacity: 0s;```<br>
+> ```op-0dot1 = opacity: 0.1s;```<br>
+> ```op-0dot2 = opacity: 0.2s;```<br>
+> ```op-0dot3 = opacity: 0.3s;```<br>
+> ```op-0dot4 = opacity: 0.4s;```<br>
+> ```op-0dot5 = opacity: 0.5s;```<br>
+> ```op-0dot6 = opacity: 0.6s;```<br>
+> ```op-0dot7 = opacity: 0.7s;```<br>
+> ```op-0dot8 = opacity: 0.8s;```<br>
+> ```op-0dot9 = opacity: 0.9s;```<br>
+> ```op-1 = opacity: 1s;```<br>
 # Our contributors... <br><hr><br>
 <div style="display: flex; flex-direction: column;">
   <img src="https://avatars.githubusercontent.com/u/82920449?s=120&v=4" width="200px" height="200px" />
