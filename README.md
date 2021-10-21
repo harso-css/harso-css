@@ -66,6 +66,7 @@
 
 ## Contributors ✨
 
+Hover on a icon to see their description.<br>
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
