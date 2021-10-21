@@ -16,8 +16,7 @@
 ### This can change your font-family only with a classname
 #### Example :``` <body class="sans-serif"></body> ``` => This will set the font family to sans-serif for every content inside the body
 ### The fonts that we can use are : sans-serif, cursive, monospace, consolas, fantasy
-### <br>
-<br>
+### <br><br>
 ### <h2>Colors</h2>
 ### <h3>Blue Text</h3> = ``` <h3 class="blue">Blue Text</h3> ```<br><br>
 ### <h3>Red Text</h3> = ``` <h3 class="red">Red Text</h3> ```<br><br>
