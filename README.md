@@ -1,6 +1,6 @@
 # Welcome to harso-css 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## What is this library?
 > This Library is A Superr CSS3 Library<br>
@@ -77,6 +77,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/e-coders"><img src="https://avatars.githubusercontent.com/u/83082760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>E - Coders (Aasheesh Agarwal)</b></sub></a><br /><a href="#ideas-e-coders" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/harso-css/harso-css/issues?q=author%3Ae-coders" title="Bug reports">🐛</a> <a href="https://github.com/harso-css/harso-css/commits?author=e-coders" title="Code">💻</a></td>
     <td align="center"><a href="http://anantjit.whjr.site"><img src="https://avatars.githubusercontent.com/u/74092334?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anantjit</b></sub></a><br /><a href="#ideas-genius398" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/harso-css/harso-css/issues?q=author%3Agenius398" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/somePythonProgrammer"><img src="https://avatars.githubusercontent.com/u/74598401?v=4?s=100" width="100px;" alt=""/><br /><sub><b>somePythonProgrammer</b></sub></a><br /><a href="#ideas-somePythonProgrammer" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/harso-css/harso-css/issues?q=author%3AsomePythonProgrammer" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://adatta1276.github.io"><img src="https://avatars.githubusercontent.com/u/73747859?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Adatta1276</b></sub></a><br /><a href="https://github.com/harso-css/harso-css/commits?author=Adatta1276" title="Code">💻</a> <a href="#ideas-Adatta1276" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/harso-css/harso-css/issues?q=author%3AAdatta1276" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
