@@ -1,10 +1,10 @@
 # Welcome to harso-css 
 ## What is this library?
-> This Library is A Superr CSS3 Library
+> This Library is A Superr CSS3 Library<br>
 > A CSS Framework that helps you to make your pages Cool!!
 
 ## Installation
-> Install via npm: ```npm i harso-css```
+> Install via npm: ```npm i harso-css```<br>
 > Install via CDN: ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/harso-css@4.0.0/harso.css">```
 
 # Documentation <br>
@@ -44,7 +44,7 @@
 ### ```<button class="btn btn-border">Hi</button>```<br><br>
 
 ### <h2>Transitions</h2>
-> ```trans-0 = transition: 0s;```
+> ```trans-0 = transition: 0s;```<br>
 > ```trans-0dot1 = transition: 0.1s;```
 **like this we have trans-0dot2, trans-0dot3, trans-0dot4, trans-0dot5, trans-0dot6, trans-0dot7, trans-0dot8, trans-0dot9, trans-1, trans-1dot1, trans1dot2, trans-1dot3, trans-1dot4, trans-1dot5, trans-1dot6, trans-0dot7, trans-1dot8, trans-1dot9, trans-2, trans-2dot1 trans-2dot2, trans-2dot3, tans-2dot4, trans-2dot5, trans-2dot6, trans-2dot7, trans-2dot9, trans-3** <br><br>
 
