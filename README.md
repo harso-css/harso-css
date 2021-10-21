@@ -1,6 +1,6 @@
 # Welcome to harso-css 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## What is this library?
 > This Library is A Superr CSS3 Library<br>
@@ -75,6 +75,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://www.youtube.com/channel/UCYJKtrmrcSbFlNABR_JFWuQ/"><img src="https://avatars.githubusercontent.com/u/82920449?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sreehari521</b></sub></a><br /><a href="#projectManagement-Sreehari521" title="Project Management">📆</a> <a href="#tool-Sreehari521" title="Tools">🔧</a> <a href="#ideas-Sreehari521" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/harso-css/harso-css/issues?q=author%3ASreehari521" title="Bug reports">🐛</a> <a href="https://github.com/harso-css/harso-css/commits?author=Sreehari521" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/e-coders"><img src="https://avatars.githubusercontent.com/u/83082760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>E - Coders (Aasheesh Agarwal)</b></sub></a><br /><a href="#ideas-e-coders" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/harso-css/harso-css/issues?q=author%3Ae-coders" title="Bug reports">🐛</a> <a href="https://github.com/harso-css/harso-css/commits?author=e-coders" title="Code">💻</a></td>
+    <td align="center"><a href="http://anantjit.whjr.site"><img src="https://avatars.githubusercontent.com/u/74092334?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anantjit</b></sub></a><br /><a href="#ideas-genius398" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/harso-css/harso-css/issues?q=author%3Agenius398" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
