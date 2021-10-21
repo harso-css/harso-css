@@ -1,11 +1,11 @@
 # Welcome to harso-css 
 ## What is this library?
-* This Library is A Superr CSS3 Library
-* A CSS Framework that helps you to make your pages Cool!!
+> This Library is A Superr CSS3 Library
+> A CSS Framework that helps you to make your pages Cool!!
 
 ## Installation
-* Install via npm: ```npm i harso-css```
-* Install via CDN: ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/harso-css@4.0.0/harso.css">```
+> Install via npm: ```npm i harso-css```
+> Install via CDN: ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/harso-css@4.0.0/harso.css">```
 
 # Documentation <br>
 ### <h2>Fonts</h2>
@@ -44,9 +44,9 @@
 ### ```<button class="btn btn-border">Hi</button>```<br><br>
 
 ### <h2>Transitions</h2>
-### class name ```trans-0 = transition: 0s;```
-### class name ```trans-0dot1 = transition: 0.1s;```
-### like this we have trans-0dot2, trans-0dot3, trans-0dot4, trans-0dot5, trans-0dot6, trans-0dot7, trans-0dot8, trans-0dot9, trans-1, trans-1dot1, trans1dot2, trans-1dot3, trans-1dot4, trans-1dot5, trans-1dot6, trans-0dot7, trans-1dot8, trans-1dot9, trans-2, trans-2dot1 trans-2dot2, trans-2dot3, tans-2dot4, trans-2dot5, trans-2dot6, trans-2dot7, trans-2dot9, trans-3 <br><br>
+> ```trans-0 = transition: 0s;```
+> ```trans-0dot1 = transition: 0.1s;```
+**like this we have trans-0dot2, trans-0dot3, trans-0dot4, trans-0dot5, trans-0dot6, trans-0dot7, trans-0dot8, trans-0dot9, trans-1, trans-1dot1, trans1dot2, trans-1dot3, trans-1dot4, trans-1dot5, trans-1dot6, trans-0dot7, trans-1dot8, trans-1dot9, trans-2, trans-2dot1 trans-2dot2, trans-2dot3, tans-2dot4, trans-2dot5, trans-2dot6, trans-2dot7, trans-2dot9, trans-3** <br><br>
 
 ### <h2>Opacity</h2>
 ### class name ```op-0 = opacity: 0s;```
